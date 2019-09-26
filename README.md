@@ -1,5 +1,7 @@
 # Book-Storage-System
 
+* For now, it runs on a **localhost** environment
+
 * Allows users to:
   * Enter book details (i.e. title and author)
   * Retrieve the list of books they have saved
